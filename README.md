@@ -45,7 +45,7 @@
 
 ### Database Setup (MySQL)
 You can import the entire database (tables + sample data) NOTE : the database must be in the project directory or at the place where you are making your database.
-
+```sh
 mysql -u root -p -e "CREATE DATABASE ClickNBuild;
 USE ClickNBuild; 
 SOURCE ClickNBuild.sql;"
