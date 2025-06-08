@@ -38,7 +38,7 @@
 ### Installation  
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/yourusername/ClickNBuild.git
+   git clone https://github.com/Ashar134/ClickNBuild.git
    cd ClickNBuild
 
 ---
